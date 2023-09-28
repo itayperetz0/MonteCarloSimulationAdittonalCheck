@@ -6,3 +6,4 @@ Specific this check checks how different probabilities of adopting this new idea
 
 To use this additional check you need to add the SimulatorInDiffProb.py file to the project on this github repository :https://github.com/louiseadennis/MonteCarloInformationDiffusion 
 to run this py file please sea the README file of this repository and run this file with same instructions.
+The results file contain results of a sample run of this algorithem on 100 graphs with 3000 nodes.
